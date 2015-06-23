@@ -1,9 +1,9 @@
 obstacles & future
 ------------------
-* obstacles
+* future
     * calculator (via tangle.js)
     * aggregation (via level db)
     * we are on budget that may have already expired
-* future
+* obstacles
     * user focussed design
    
